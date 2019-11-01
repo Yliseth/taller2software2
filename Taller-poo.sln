@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller-poo", "Taller-poo\Taller-poo.csproj", "{67D27110-292E-4702-975A-23A0F561AAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidad", "Entidad\Entidad.csproj", "{2356FD33-D20F-48AF-8479-E7B9271A7973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{D23F7523-2777-46B1-955C-ECD3F254CC64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D27110-292E-4702-975A-23A0F561AAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D27110-292E-4702-975A-23A0F561AAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D27110-292E-4702-975A-23A0F561AAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D27110-292E-4702-975A-23A0F561AAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2356FD33-D20F-48AF-8479-E7B9271A7973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2356FD33-D20F-48AF-8479-E7B9271A7973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2356FD33-D20F-48AF-8479-E7B9271A7973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2356FD33-D20F-48AF-8479-E7B9271A7973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23F7523-2777-46B1-955C-ECD3F254CC64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23F7523-2777-46B1-955C-ECD3F254CC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23F7523-2777-46B1-955C-ECD3F254CC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23F7523-2777-46B1-955C-ECD3F254CC64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

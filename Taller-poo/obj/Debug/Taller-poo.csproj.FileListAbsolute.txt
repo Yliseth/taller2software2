@@ -1,0 +1,88 @@
+c:\users\estudiante.sala235-pc21.000\documents\visual studio 2013\Projects\Taller-poo\Taller-poo\bin\Debug\Taller-poo.exe.config
+c:\users\estudiante.sala235-pc21.000\documents\visual studio 2013\Projects\Taller-poo\Taller-poo\bin\Debug\Taller-poo.exe
+c:\users\estudiante.sala235-pc21.000\documents\visual studio 2013\Projects\Taller-poo\Taller-poo\bin\Debug\Taller-poo.pdb
+c:\users\estudiante.sala235-pc21.000\documents\visual studio 2013\Projects\Taller-poo\Taller-poo\obj\Debug\Taller-poo.csprojResolveAssemblyReference.cache
+c:\users\estudiante.sala235-pc21.000\documents\visual studio 2013\Projects\Taller-poo\Taller-poo\obj\Debug\Taller_poo.Form1.resources
+c:\users\estudiante.sala235-pc21.000\documents\visual studio 2013\Projects\Taller-poo\Taller-poo\obj\Debug\Taller_poo.Properties.Resources.resources
+c:\users\estudiante.sala235-pc21.000\documents\visual studio 2013\Projects\Taller-poo\Taller-poo\obj\Debug\Taller-poo.csproj.GenerateResource.Cache
+c:\users\estudiante.sala235-pc21.000\documents\visual studio 2013\Projects\Taller-poo\Taller-poo\obj\Debug\Taller-poo.exe
+c:\users\estudiante.sala235-pc21.000\documents\visual studio 2013\Projects\Taller-poo\Taller-poo\obj\Debug\Taller-poo.pdb
+C:\Users\Estudiante.SALA235-PC21.000\Desktop\Taller-poo\Taller-poo\bin\Debug\Taller-poo.exe.config
+C:\Users\Estudiante.SALA235-PC21.000\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller-poo.exe
+C:\Users\Estudiante.SALA235-PC21.000\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller-poo.pdb
+C:\Users\LEONARDO\Desktop\Taller-poo\Taller-poo\bin\Debug\Taller-poo.exe.config
+C:\Users\LEONARDO\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller-poo.exe
+C:\Users\LEONARDO\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller-poo.pdb
+C:\Users\LEONARDO\Desktop\Taller-poo\Taller-poo\bin\Debug\Taller-poo.exe
+C:\Users\LEONARDO\Desktop\Taller-poo\Taller-poo\bin\Debug\Taller-poo.pdb
+C:\Users\LEONARDO\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller-poo.csprojResolveAssemblyReference.cache
+C:\Users\LEONARDO\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller_poo.AprobacionCredito.resources
+C:\Users\LEONARDO\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller_poo.Properties.Resources.resources
+C:\Users\LEONARDO\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller-poo.csproj.GenerateResource.Cache
+C:\Users\Estudiante.SALA235-PC20.001\Documents\Visual Studio 2013\Projects\Taller-poo\Taller-poo\bin\Debug\Taller-poo.exe.config
+C:\Users\Estudiante.SALA235-PC20.001\Documents\Visual Studio 2013\Projects\Taller-poo\Taller-poo\obj\Debug\Taller-poo.exe
+C:\Users\Estudiante.SALA235-PC20.001\Documents\Visual Studio 2013\Projects\Taller-poo\Taller-poo\obj\Debug\Taller-poo.pdb
+F:\Taller-poo\Taller-poo\bin\Debug\Taller-poo.exe.config
+F:\Taller-poo\Taller-poo\obj\Debug\Taller-poo.exe
+F:\Taller-poo\Taller-poo\obj\Debug\Taller-poo.pdb
+F:\Taller-poo\Taller-poo\bin\Debug\Taller-poo.exe
+F:\Taller-poo\Taller-poo\bin\Debug\Taller-poo.pdb
+F:\Taller-poo\Taller-poo\obj\Debug\Taller-poo.csprojResolveAssemblyReference.cache
+F:\Taller-poo\Taller-poo\obj\Debug\Taller_poo.AprobacionCredito.resources
+F:\Taller-poo\Taller-poo\obj\Debug\Taller_poo.Properties.Resources.resources
+F:\Taller-poo\Taller-poo\obj\Debug\Taller-poo.csproj.GenerateResource.Cache
+C:\Users\Estudiante.SALA235-PC08\Desktop\Taller-poo\Taller-poo\bin\Debug\Taller-poo.exe.config
+C:\Users\Estudiante.SALA235-PC08\Desktop\Taller-poo\Taller-poo\bin\Debug\Taller-poo.exe
+C:\Users\Estudiante.SALA235-PC08\Desktop\Taller-poo\Taller-poo\bin\Debug\Taller-poo.pdb
+C:\Users\Estudiante.SALA235-PC08\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller-poo.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC08\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller_poo.AprobacionCredito.resources
+C:\Users\Estudiante.SALA235-PC08\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller_poo.Properties.Resources.resources
+C:\Users\Estudiante.SALA235-PC08\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller-poo.csproj.GenerateResource.Cache
+C:\Users\Estudiante.SALA235-PC08\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller-poo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.SALA235-PC08\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller-poo.exe
+C:\Users\Estudiante.SALA235-PC08\Desktop\Taller-poo\Taller-poo\obj\Debug\Taller-poo.pdb
+C:\Users\Estudiante\Documents\Taller-poo\Taller-poo\bin\Debug\Taller-poo.exe.config
+C:\Users\Estudiante\Documents\Taller-poo\Taller-poo\obj\Debug\Taller-poo.exe
+C:\Users\Estudiante\Documents\Taller-poo\Taller-poo\obj\Debug\Taller-poo.pdb
+C:\Users\Estudiante\Documents\Taller-poo\Taller-poo\bin\Debug\Taller-poo.exe
+C:\Users\Estudiante\Documents\Taller-poo\Taller-poo\bin\Debug\Taller-poo.pdb
+C:\Users\Estudiante\Documents\Taller-poo\Taller-poo\obj\Debug\Taller-poo.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Documents\Taller-poo\Taller-poo\obj\Debug\Taller_poo.AprobacionCredito.resources
+C:\Users\Estudiante\Documents\Taller-poo\Taller-poo\obj\Debug\Taller_poo.Properties.Resources.resources
+C:\Users\Estudiante\Documents\Taller-poo\Taller-poo\obj\Debug\Taller-poo.csproj.GenerateResource.Cache
+F:\TALLER POO-CREDITO\Taller-poo\bin\Debug\Taller-poo.exe.config
+F:\TALLER POO-CREDITO\Taller-poo\obj\Debug\Taller-poo.exe
+F:\TALLER POO-CREDITO\Taller-poo\obj\Debug\Taller-poo.pdb
+F:\TALLER POO-CREDITO\Taller-poo\bin\Debug\Taller-poo.exe
+F:\TALLER POO-CREDITO\Taller-poo\bin\Debug\Taller-poo.pdb
+F:\TALLER POO-CREDITO\Taller-poo\obj\Debug\Taller-poo.csprojResolveAssemblyReference.cache
+F:\TALLER POO-CREDITO\Taller-poo\obj\Debug\Taller_poo.AprobacionCredito.resources
+F:\TALLER POO-CREDITO\Taller-poo\obj\Debug\Taller_poo.Properties.Resources.resources
+F:\TALLER POO-CREDITO\Taller-poo\obj\Debug\Taller-poo.csproj.GenerateResource.Cache
+C:\Users\Estudiante.SALA235-PC14\Desktop\TALLER POO-CREDITO\Taller-poo\bin\Debug\Taller-poo.exe.config
+C:\Users\Estudiante.SALA235-PC14\Desktop\TALLER POO-CREDITO\Taller-poo\obj\Debug\Taller-poo.exe
+C:\Users\Estudiante.SALA235-PC14\Desktop\TALLER POO-CREDITO\Taller-poo\obj\Debug\Taller-poo.pdb
+C:\Users\Estudiante.SALA235-PC14\Desktop\TALLER POO-CREDITO\Taller-poo\bin\Debug\Taller-poo.exe
+C:\Users\Estudiante.SALA235-PC14\Desktop\TALLER POO-CREDITO\Taller-poo\bin\Debug\Taller-poo.pdb
+C:\Users\Estudiante.SALA235-PC14\Desktop\TALLER POO-CREDITO\Taller-poo\obj\Debug\Taller-poo.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC14\Desktop\TALLER POO-CREDITO\Taller-poo\obj\Debug\Taller_poo.AprobacionCredito.resources
+C:\Users\Estudiante.SALA235-PC14\Desktop\TALLER POO-CREDITO\Taller-poo\obj\Debug\Taller_poo.Properties.Resources.resources
+C:\Users\Estudiante.SALA235-PC14\Desktop\TALLER POO-CREDITO\Taller-poo\obj\Debug\Taller-poo.csproj.GenerateResource.Cache
+F:\TALLER POO-CREDITO copia\Taller-poo\bin\Debug\Taller-poo.exe.config
+F:\TALLER POO-CREDITO copia\Taller-poo\obj\Debug\Taller-poo.exe
+F:\TALLER POO-CREDITO copia\Taller-poo\obj\Debug\Taller-poo.pdb
+F:\TALLER POO-CREDITO copia\Taller-poo\bin\Debug\Taller-poo.exe
+F:\TALLER POO-CREDITO copia\Taller-poo\bin\Debug\Taller-poo.pdb
+F:\TALLER POO-CREDITO copia\Taller-poo\obj\Debug\Taller-poo.csprojResolveAssemblyReference.cache
+F:\TALLER POO-CREDITO copia\Taller-poo\obj\Debug\Taller_poo.AprobacionCredito.resources
+F:\TALLER POO-CREDITO copia\Taller-poo\obj\Debug\Taller_poo.Properties.Resources.resources
+F:\TALLER POO-CREDITO copia\Taller-poo\obj\Debug\Taller-poo.csproj.GenerateResource.Cache
+C:\Users\Estudiante.SALA235-PC15\Documents\TALLER POO-CREDITO copia\Taller-poo\bin\Debug\Taller-poo.exe.config
+C:\Users\Estudiante.SALA235-PC15\Documents\TALLER POO-CREDITO copia\Taller-poo\obj\Debug\Taller-poo.exe
+C:\Users\Estudiante.SALA235-PC15\Documents\TALLER POO-CREDITO copia\Taller-poo\obj\Debug\Taller-poo.pdb
+C:\Users\Estudiante.SALA235-PC15\Documents\TALLER POO-CREDITO copia\Taller-poo\bin\Debug\Taller-poo.exe
+C:\Users\Estudiante.SALA235-PC15\Documents\TALLER POO-CREDITO copia\Taller-poo\bin\Debug\Taller-poo.pdb
+C:\Users\Estudiante.SALA235-PC15\Documents\TALLER POO-CREDITO copia\Taller-poo\obj\Debug\Taller-poo.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC15\Documents\TALLER POO-CREDITO copia\Taller-poo\obj\Debug\Taller_poo.AprobacionCredito.resources
+C:\Users\Estudiante.SALA235-PC15\Documents\TALLER POO-CREDITO copia\Taller-poo\obj\Debug\Taller_poo.Properties.Resources.resources
+C:\Users\Estudiante.SALA235-PC15\Documents\TALLER POO-CREDITO copia\Taller-poo\obj\Debug\Taller-poo.csproj.GenerateResource.Cache
